@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 ---
 
 [![Shungo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shungo0222&theme=react)](https://github-readme-activity-graph.cyclic.app/graph?username=shungo0222&theme=react)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shungo0222&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
