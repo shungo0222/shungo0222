@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Web3 x Game - Onboarding"
+- 🔭 I’m currently working on "Web3 Startup"
 - 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core)), Rust(@[The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8))
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
