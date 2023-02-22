@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://solana.com/" target="_blank"><img src="https://solana.com/src/img/branding/solanaLogoMark.svg" alt="solana" width="40" height="40"/></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/></a>
