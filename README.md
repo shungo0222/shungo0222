@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://solana.com/" target="_blank"><img src="https://solana.com/src/img/branding/solanaLogoMark.svg" alt="solana" width="40" height="40"/></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img src="https://foundation.rust-lang.org/img/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a>
