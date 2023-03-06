@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Web3 Escrow for Job"
+- 🔭 I’m currently working on "Decentralized Escrow for Job"
 - 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core)), Rust(@[The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)), Next.js(@[Document](https://nextjs.org/learn/foundations/about-nextjs))
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Ethereum, Kleros
