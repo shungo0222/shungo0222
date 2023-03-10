@@ -15,6 +15,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shungo0222&theme=dark&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shungo0222&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a)](https://github-readme-stats.vercel.app/api/top-langs/?username=shungo0222&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a)
+
 ### Languages and Tools
 <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
