@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on "Decentralized Escrow for Job in GameFi called Qube"
 - 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core)), Rust(@[The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)), Next.js(@[Document](https://nextjs.org/learn/foundations/about-nextjs)), Kleros
-- 👯 I’m looking to collaborate on Kleros
+- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with Kleros
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
