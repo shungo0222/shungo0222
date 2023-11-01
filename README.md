@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on "Decentralized Escrow for Job in GameFi called Qube"
 - 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core)), Rust(@[The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)), [Gasless](https://docs.opengsn.org/)
-- 👯 I’m looking to collaborate on Gasless, Paymaster, Lighthouse, Ceramic
+- 👯 I’m looking to collaborate on Gasless, Paymaster, Lighthouse
 - 🤔 I’m looking for help with
 - 💬 Ask me about "[Qube](https://www.0xqube.xyz/?userType=CREATOR)"
 - 📫 How to reach me: ...
