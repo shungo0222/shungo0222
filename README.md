@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow for Job in GameFi called Qube"
-- 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core)), Rust
+- 🌱 I’m currently learning Solana(@[buildspace/Solana Core](https://buildspace.so/p/solana-core))
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about "[Qube](https://www.0xqube.xyz/?userType=CREATOR)"
