@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow for Job in GameFi called Qube"
-- 🌱 I’m currently learning Escrow for NFTs, Offramp, Referal Service, [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
+- 🌱 I’m currently learning Escrow for NFTs, Offramp, [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about "[Qube](https://www.0xqube.xyz/?userType=CREATOR)"
