@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire/bandit](https://overthewire.org/wargames/bandit/), Ethical Hacking@Udemy
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
-- 💬 Ask me about "[Qube](https://www.0xqube.xyz/?userType=CREATOR)"
+- 💬 Ask me about
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I do Calisthenics💪
