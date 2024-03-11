@@ -7,7 +7,7 @@
 - 💬 Ask me about
 - 📫 How to reach me:
 - 😄 Pronouns:
-- ⚡ Fun fact: I do Calisthenics, Planche💪
+- ⚡ Fun fact: I do Calisthenics, Planche, Handstand💪
 
 ### My Status
 
