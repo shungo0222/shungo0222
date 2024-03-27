@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow"
-- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire/bandit](https://overthewire.org/wargames/bandit/), Ethical Hacking@Udemy, [Hack The Box](https://www.hackthebox.com/), iSH, Java/Log4j/[CVE-2021-44228](https://access.redhat.com/security/cve/cve-2021-44228)/Log4Shell, [CVE-2023-0386](https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/), Linux Command, Kali, Joomla
+- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire/bandit](https://overthewire.org/wargames/bandit/), Ethical Hacking@Udemy, [Hack The Box](https://www.hackthebox.com/), iSH, Java/Log4j/[CVE-2021-44228](https://access.redhat.com/security/cve/cve-2021-44228)/Log4Shell, [CVE-2023-0386](https://securitylabs.datadoghq.com/articles/overlayfs-cve-2023-0386/), Linux Command, Kali, Joomla, SSTI
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about
