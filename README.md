@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow"
-- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire/bandit](https://overthewire.org/wargames/bandit/), Ethical Hacking@Udemy, [Hack The Box](https://www.hackthebox.com/), iSH, Java, Linux
+- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire/bandit](https://overthewire.org/wargames/bandit/), Ethical Hacking@Udemy, [Hack The Box](https://www.hackthebox.com/), Java, Linux
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about
