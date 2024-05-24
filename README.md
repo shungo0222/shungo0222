@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow"
-- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [overthewire](https://overthewire.org/wargames/bandit/)
+- 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [Overthewire](https://overthewire.org/wargames/bandit/)
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about
