@@ -1,4 +1,4 @@
-### Hi There 👋
+### HI There 👋
 
 - 🔭 I’m currently working on "Decentralized Escrow"
 - 🌱 I’m currently learning [Ethernaut CTF](https://ethernaut.openzeppelin.com/), [OverTheWire](https://overthewire.org/wargames/bandit/)
