@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning [ETHERNAUT CTF](https://ethernaut.openzeppelin.com/), [OVERTHEWIRe](https://overthewire.org/wargames/bandit/), Neovim
+- 🌱 I’m currently learning [ETHERNAUT CTF](https://ethernaut.openzeppelin.com/), [OVERTHEWIRE](https://overthewire.org/wargames/bandit/), Neovim
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about
